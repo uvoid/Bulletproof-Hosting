@@ -1,0 +1,26 @@
+This is a guide on how to host a botnet in 2022 without getting banned!
+
+
+Now this title is somewhat clickbait, yes you will be getting banned, A lot.
+But that doesnt mean you have to lose all your progress of zmaping day and night to
+get that 50 bot mark. There are ways around it.
+
+Requirements (minimum):
+1x 1g RAM 1 Core VPS Server
+1x 2g RAM 1 Core VPS Server
+
+So now that you know the bare minimum requirements, lets get into why you need 2 servers, and where to get them.
+
+1G Ram server - This will be your c2 server. most hosts do not ban or evem find out if you're hosting a c2
+This server is dedicated ONLY to your c2, so dont worry too much about the specs
+I get my c2 servers from 100up hosting. cheap and ddos protected
+
+2g Ram server - this is the server where you will host your bins and use your echo loader.
+this server does NOT have to be 2g ram and can be as low as 500mb if you arent going to be echo loading on it.
+Now heres the catch, this server will be banned within a week of using it. your bins will be all over spamhaus and your
+host will have no choice. but this server getting banned does NOT mean you lose your bots.
+All your infected bots are already connected to your c2 server. so simply buy a new server and setup your bins again!
+the whole point of this server is to host the binaries the bots download so losing it only means no new bots until you gew a new one working.
+
+i get my host servers from private-hosting.eu. they are cheap ($5 a month) and slow to ban. you have a good week before
+they deal with your abuse reports
